@@ -3,13 +3,14 @@
   <groupId>com.masonliu</groupId>
   <artifactId>test_plugin</artifactId>
   <versioning>
-    <release>1.3.6</release>
+    <release>1.4.5</release>
     <versions>
       <version>1.3.2</version>
       <version>1.3.4</version>
       <version>1.3.5</version>
       <version>1.3.6</version>
+      <version>1.4.5</version>
     </versions>
-    <lastUpdated>20180118030135</lastUpdated>
+    <lastUpdated>20180118063833</lastUpdated>
   </versioning>
 </metadata>
