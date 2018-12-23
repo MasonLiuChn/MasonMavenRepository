@@ -1,4 +1,75 @@
 {
-    "bundleVersion":"_13version",
-    "showAd":true
+  "bundleVersion": "_15version",
+  "showAd": true,
+  "disableAdVersion":"no",
+  "changeUIUrls": [
+    {
+      "host": "aaqqc.com",
+      "marginTop": -82,
+      "js": "",
+      "mianliu": true,
+      "zhuanFanTiDelayTime": -1
+    },
+    {
+      "host": "tonghuacun.com",
+      "marginTop": -210,
+      "js": "",
+      "mianliu": true,
+      "zhuanFanTiDelayTime": 0
+    },
+    {
+      "host": "ckck.vip",
+      "marginTop": -138,
+      "js": "",
+      "mianliu": false,
+      "zhuanFanTiDelayTime": 0
+    },
+    {
+      "host": "piaohuakk.com",
+      "marginTop": -140,
+      "js": "",
+      "mianliu": false,
+      "zhuanFanTiDelayTime": 0
+    }
+  ],
+  "googlePlayUpdate": "info.xxx",
+  "interceptUrls": {
+    "white": [
+    ],
+    "black": [
+      "cnzz.com",
+      "hm.baidu.com",
+      "10.72.25.13",
+      "lazyload.gif",
+      "blank.gif",
+      "hfs.js",
+      "hf.js",
+      "foot.js",
+      "foot1.js",
+      "head.js",
+      "head1.js",
+      "jump.js",
+      "lanhouhou.cn",
+      "blockplus.cc",
+      "http://js.fccxp.com/15yc/cdn/bottom.js",
+      "xjtxcj.com",
+      "baidustatic.com",
+      "58mingri.cn",
+      "58mingtian.cn",
+      ".gif?",
+      "baidu.com",
+      "putushio.cn",
+      "myidong.js"
+    ]
+  },
+  "overrideUrls": {
+    "white": [
+      "aaqqc.com",
+      "tonghuacun.com",
+      "ckck.vip",
+      "piaohuakk.com"
+    ],
+    "black": [
+    ]
+  }
 }
