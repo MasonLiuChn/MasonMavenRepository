@@ -3,7 +3,7 @@
   <groupId>com.masonliu</groupId>
   <artifactId>weex_sdk_modify</artifactId>
   <versioning>
-    <release>0.20.3.0-beta.1</release>
+    <release>0.20.3.1-beta</release>
     <versions>
       <version>0.0.2</version>
       <version>0.0.3</version>
@@ -14,7 +14,8 @@
       <version>0.20.0.2</version>
       <version>0.20.3.0-beta</version>
       <version>0.20.3.0-beta.1</version>
+      <version>0.20.3.1-beta</version>
     </versions>
-    <lastUpdated>20190107022654</lastUpdated>
+    <lastUpdated>20190107022801</lastUpdated>
   </versioning>
 </metadata>
