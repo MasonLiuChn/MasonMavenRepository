@@ -26,17 +26,10 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.masonliu</groupId>
-      <artifactId>weex_sdk_modify</artifactId>
-      <version>0.20.0.2</version>
-      <type>aar</type>
+      <groupId>com.taobao.android</groupId>
+      <artifactId>weex_sdk</artifactId>
+      <version>0.20.3.0-beta</version>
       <scope>compile</scope>
-      <exclusions>
-        <exclusion>
-          <artifactId>*</artifactId>
-          <groupId>*</groupId>
-        </exclusion>
-      </exclusions>
     </dependency>
     <dependency>
       <groupId>com.taobao.android</groupId>
