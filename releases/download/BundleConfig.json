@@ -1,7 +1,7 @@
 {
-  "bundleVersion": "_15version",
+  "bundleVersion": "_19version",
   "showAd": true,
-  "disableAdVersion":"no",
+  "disableAdVersion":"NO",
   "changeUIUrls": [
     {
       "host": "aaqqc.com",
@@ -59,7 +59,9 @@
       ".gif?",
       "baidu.com",
       "putushio.cn",
-      "myidong.js"
+      "myidong.js",
+      "yunsoka.com",
+      ".yuyue"
     ]
   },
   "overrideUrls": {
@@ -71,5 +73,10 @@
     ],
     "black": [
     ]
-  }
+  },
+    "playPageKeyWord": [
+    "play",
+    "video",
+    "live"
+  ]
 }
