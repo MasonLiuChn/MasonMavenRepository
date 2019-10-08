@@ -4,7 +4,15 @@
   "disableAdVersion": "1.6.7_b",
   "titleButtonUrls": [
     {
-      "host": "http://m.aaxxr.com/vod-search-pg-1-wd-热门.html",
+      "host": "https://support.qq.com/product/32678",
+      "marginTop": 0,
+      "js": "",
+      "mianliu": true,
+      "zhuanFanTiDelayTime": -1,
+      "title": "反馈"
+    },
+    {
+      "host": "http://m.aazzf.com/vod-search-pg-1-wd-热门.html",
       "marginTop": 0,
       "js": "",
       "mianliu": true,
@@ -12,10 +20,10 @@
       "title": "搜索"
     }
   ],
-  "mainPageUrls": [
+  "mainPageUrls2": [
     {
-      "host": "http://m.aaxxr.com",
-      "marginTop": -87,
+      "host": "http://m.aazzf.com",
+      "marginTop": -91,
       "js": "",
       "mianliu": true,
       "zhuanFanTiDelayTime": -1,
@@ -23,31 +31,65 @@
     },
     {
       "host": "http://m.aazzf.com/vod-list-id-1-pg-1-order--by-time-class-0-year-0-letter--area--lang-.html",
-      "marginTop": -95,
+      "marginTop": -123,
       "js": "",
       "mianliu": true,
       "zhuanFanTiDelayTime": -1,
       "title": "电影"
     },
     {
-      "host": "http://m.aaxxr.com/vod-list-id-2-pg-1-order--by-time-class-0-year-0-letter--area--lang-.html",
-      "marginTop": -87,
+      "host": "http://m.aazzf.com/vod-list-id-2-pg-1-order--by-time-class-0-year-0-letter--area--lang-.html",
+      "marginTop": -123,
       "js": "",
       "mianliu": true,
       "zhuanFanTiDelayTime": -1,
       "title": "电视剧"
     },
     {
-      "host": "http://m.aaxxr.com/vod-list-id-4-pg-1-order--by-time-class-0-year-0-letter--area--lang-.html",
-      "marginTop": -87,
+      "host": "http://m.aazzf.com/vod-list-id-4-pg-1-order--by-time-class-0-year-0-letter--area--lang-.html",
+      "marginTop": -123,
       "js": "",
       "mianliu": true,
       "zhuanFanTiDelayTime": -1,
       "title": "动漫"
     },
     {
-      "host": "http://m.aaxxr.com/vod-list-id-3-pg-1-order--by-time-class-0-year-0-letter--area--lang-.html",
-      "marginTop": -87,
+      "host": "http://m.aazzf.com/vod-list-id-3-pg-1-order--by-time-class-0-year-0-letter--area--lang-.html",
+      "marginTop": -123,
+      "js": "",
+      "mianliu": true,
+      "zhuanFanTiDelayTime": -1,
+      "title": "综艺"
+    }
+  ],
+  "mainPageUrls": [
+    {
+      "host": "http://m.aazzf.com/vod-list-id-1-pg-1-order--by-score-class-63-year-0-letter--area--lang-.html",
+      "marginTop": -123,
+      "js": "",
+      "mianliu": true,
+      "zhuanFanTiDelayTime": -1,
+      "title": "电影"
+    },
+    {
+      "host": "http://m.aazzf.com/vod-list-id-2-pg-1-order--by-score-class-18-year-0-letter--area--lang-.html",
+      "marginTop": -123,
+      "js": "",
+      "mianliu": true,
+      "zhuanFanTiDelayTime": -1,
+      "title": "电视剧"
+    },
+    {
+      "host": "http://m.aazzf.com/vod-list-id-4-pg-1-order--by-score-class-0-year-0-letter--area--lang-.html",
+      "marginTop": -123,
+      "js": "",
+      "mianliu": true,
+      "zhuanFanTiDelayTime": -1,
+      "title": "动漫"
+    },
+    {
+      "host": "http://m.aazzf.com/vod-list-id-3-pg-1-order--by-score-class--year-0-letter--area--lang-.html",
+      "marginTop": -123,
       "js": "",
       "mianliu": true,
       "zhuanFanTiDelayTime": -1,
@@ -57,14 +99,14 @@
   "changeUIUrls": [
     {
       "host": "/vod-detail-id",
-      "marginTop": -87,
+      "marginTop": -112,
       "js": "",
       "mianliu": true,
       "zhuanFanTiDelayTime": -1
     },
     {
       "host": "/vod-play-id",
-      "marginTop": -87,
+      "marginTop": -127,
       "js": "",
       "mianliu": true,
       "zhuanFanTiDelayTime": -1
@@ -81,10 +123,8 @@
   "overrideUrls": {
     "white": [
       "baidu.com",
-      "aaqqc.com",
-      "aaxxr.com",
       "aazzf.com",
-      "piaohuakk.com"
+      "support.qq.com"
     ]
   },
   "playPageKeyWord": [
@@ -97,5 +137,11 @@
     "vod-detail",
     "video",
     "live"
-  ]
+  ],
+  "upgrade": {
+    "version": "2.0.4_4,j",
+    "url": "http://www.baidu.com",
+    "message": "发现新版本",
+    "force": false
+  }
 }
