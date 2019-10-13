@@ -20,7 +20,7 @@
       "title": "搜索"
     }
   ],
-  "mainPageUrls": [
+  "mainPageUrls2": [
     {
       "host": "http://m.aazzf.com",
       "marginTop": -91,
@@ -62,9 +62,9 @@
       "title": "综艺"
     }
   ],
-  "mainPageUrls2": [
+  "mainPageUrls": [
     {
-      "host": "http://m.aazzf.com/vod-list-id-1-pg-1-order--by-score-class-63-year-0-letter--area--lang-.html",
+      "host": "http://m.aazzf.com/vod-list-id-1-pg-1-order--by-score-class-106-year-0-letter--area--lang-.html",
       "marginTop": -123,
       "js": "",
       "mianliu": true,
