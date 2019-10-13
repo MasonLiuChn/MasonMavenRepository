@@ -112,7 +112,7 @@
       "zhuanFanTiDelayTime": -1
     }
   ],
-  "googlePlayUpdate": "info.xxx",
+  "googlePlayUpdate": "info.digua.b",
   "interceptUrls": {
     "black": [
       "cnzz.com",
@@ -139,8 +139,8 @@
     "live"
   ],
   "upgrade": {
-    "version": "2.0.4_4,j",
-    "url": "http://www.baidu.com",
+    "version": "",
+    "url": "",
     "message": "发现新版本",
     "force": false
   }
