@@ -139,7 +139,8 @@
     "live"
   ],
   "upgrade": {
-    "version": "",
+    "notGoogleChannelVersion": "2.0.3_b,2.0.4_b,2.0.5_b,2.0.6_b",
+    "version": "2.0.3_b,2.0.4_b,2.0.5_b,2.0.6_b",
     "url": "",
     "message": "发现新版本",
     "force": false
