@@ -12,7 +12,7 @@
       "title": "反馈"
     },
     {
-      "host": "http://m.aazzf.com/vod-search-pg-1-wd-热门.html",
+      "host": "http://m.aishang118.cn/vod-search-pg-1-wd-热门.html",
       "marginTop": 0,
       "js": "",
       "mianliu": true,
@@ -22,7 +22,7 @@
   ],
   "mainPageUrls": [
     {
-      "host": "http://m.aazzf.com",
+      "host": "http://m.aishang118.cn",
       "marginTop": -91,
       "js": "",
       "mianliu": true,
@@ -30,7 +30,7 @@
       "title": "推荐"
     },
     {
-      "host": "http://m.aazzf.com/vod-list-id-1-pg-1-order--by-time-class-0-year-0-letter--area--lang-.html",
+      "host": "http://m.aishang118.cn/vod-list-id-1-pg-1-order--by-time-class-0-year-0-letter--area--lang-.html",
       "marginTop": -123,
       "js": "",
       "mianliu": true,
@@ -38,7 +38,7 @@
       "title": "电影"
     },
     {
-      "host": "http://m.aazzf.com/vod-list-id-2-pg-1-order--by-time-class-0-year-0-letter--area--lang-.html",
+      "host": "http://m.aishang118.cn/vod-list-id-2-pg-1-order--by-time-class-0-year-0-letter--area--lang-.html",
       "marginTop": -123,
       "js": "",
       "mianliu": true,
@@ -46,7 +46,7 @@
       "title": "电视剧"
     },
     {
-      "host": "http://m.aazzf.com/vod-list-id-4-pg-1-order--by-time-class-0-year-0-letter--area--lang-.html",
+      "host": "http://m.aishang118.cn/vod-list-id-4-pg-1-order--by-time-class-0-year-0-letter--area--lang-.html",
       "marginTop": -123,
       "js": "",
       "mianliu": true,
@@ -54,7 +54,7 @@
       "title": "动漫"
     },
     {
-      "host": "http://m.aazzf.com/vod-list-id-3-pg-1-order--by-time-class-0-year-0-letter--area--lang-.html",
+      "host": "http://m.aishang118.cn/vod-list-id-3-pg-1-order--by-time-class-0-year-0-letter--area--lang-.html",
       "marginTop": -123,
       "js": "",
       "mianliu": true,
@@ -64,7 +64,7 @@
   ],
   "mainPageUrls2": [
     {
-      "host": "http://m.aazzf.com/vod-list-id-1-pg-1-order--by-score-class-106-year-0-letter--area--lang-.html",
+      "host": "http://m.aishang118.cn/vod-list-id-1-pg-1-order--by-score-class-106-year-0-letter--area--lang-.html",
       "marginTop": -123,
       "js": "",
       "mianliu": true,
@@ -72,7 +72,7 @@
       "title": "电影"
     },
     {
-      "host": "http://m.aazzf.com/vod-list-id-2-pg-1-order--by-score-class-18-year-0-letter--area--lang-.html",
+      "host": "http://m.aishang118.cn/vod-list-id-2-pg-1-order--by-score-class-18-year-0-letter--area--lang-.html",
       "marginTop": -123,
       "js": "",
       "mianliu": true,
@@ -80,7 +80,7 @@
       "title": "电视剧"
     },
     {
-      "host": "http://m.aazzf.com/vod-list-id-4-pg-1-order--by-score-class-0-year-0-letter--area--lang-.html",
+      "host": "http://m.aishang118.cn/vod-list-id-4-pg-1-order--by-score-class-0-year-0-letter--area--lang-.html",
       "marginTop": -123,
       "js": "",
       "mianliu": true,
@@ -88,7 +88,7 @@
       "title": "动漫"
     },
     {
-      "host": "http://m.aazzf.com/vod-list-id-3-pg-1-order--by-score-class--year-0-letter--area--lang-.html",
+      "host": "http://m.aishang118.cn/vod-list-id-3-pg-1-order--by-score-class--year-0-letter--area--lang-.html",
       "marginTop": -123,
       "js": "",
       "mianliu": true,
