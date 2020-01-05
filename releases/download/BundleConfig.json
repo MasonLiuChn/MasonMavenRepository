@@ -2,10 +2,13 @@
   "bundleVersion": "_20version",
   "showAd": true,
   "disableAdVersion": "1.6.7_b",
+  "googlePlayUpdate": "info.digua.b",
+
   "titleButtonUrls": [
     {
       "host": "https://support.qq.com/product/32678",
       "marginTop": 0,
+      "marginBottom": 0,
       "js": "",
       "mianliu": true,
       "zhuanFanTiDelayTime": -1,
@@ -14,6 +17,7 @@
     {
       "host": "http://m.wyb128.com/vod-search-pg-1-wd-热门.html",
       "marginTop": 0,
+      "marginBottom": -220,
       "js": "",
       "mianliu": true,
       "zhuanFanTiDelayTime": -1,
@@ -22,8 +26,9 @@
   ],
   "mainPageUrls": [
     {
-      "host": "http://m.wyb128.com",
+      "host": "http://m.wyb128.com/",
       "marginTop": -91,
+      "marginBottom": -270,
       "js": "",
       "mianliu": true,
       "zhuanFanTiDelayTime": -1,
@@ -32,6 +37,7 @@
     {
       "host": "http://m.wyb128.com/vod-list-id-1-pg-1-order--by-time-class-0-year-0-letter--area--lang-.html",
       "marginTop": -123,
+      "marginBottom": -230,
       "js": "",
       "mianliu": true,
       "zhuanFanTiDelayTime": -1,
@@ -40,6 +46,7 @@
     {
       "host": "http://m.wyb128.com/vod-list-id-2-pg-1-order--by-time-class-0-year-0-letter--area--lang-.html",
       "marginTop": -123,
+      "marginBottom": -230,
       "js": "",
       "mianliu": true,
       "zhuanFanTiDelayTime": -1,
@@ -48,6 +55,7 @@
     {
       "host": "http://m.wyb128.com/vod-list-id-4-pg-1-order--by-time-class-0-year-0-letter--area--lang-.html",
       "marginTop": -123,
+      "marginBottom": -230,
       "js": "",
       "mianliu": true,
       "zhuanFanTiDelayTime": -1,
@@ -56,16 +64,19 @@
     {
       "host": "http://m.wyb128.com/vod-list-id-3-pg-1-order--by-time-class-0-year-0-letter--area--lang-.html",
       "marginTop": -123,
+      "marginBottom": -220,
       "js": "",
       "mianliu": true,
       "zhuanFanTiDelayTime": -1,
       "title": "综艺"
     }
   ],
-  "mainPageUrls2": [
+  "googleChannelUseMainPageUrlsForReview": false,
+  "mainPageUrlsForReview": [
     {
       "host": "http://m.wyb128.com/vod-list-id-1-pg-1-order--by-score-class-106-year-0-letter--area--lang-.html",
       "marginTop": -123,
+      "marginBottom": -220,
       "js": "",
       "mianliu": true,
       "zhuanFanTiDelayTime": -1,
@@ -74,6 +85,7 @@
     {
       "host": "http://m.wyb128.com/vod-list-id-2-pg-1-order--by-score-class-18-year-0-letter--area--lang-.html",
       "marginTop": -123,
+      "marginBottom": -220,
       "js": "",
       "mianliu": true,
       "zhuanFanTiDelayTime": -1,
@@ -82,6 +94,7 @@
     {
       "host": "http://m.wyb128.com/vod-list-id-4-pg-1-order--by-score-class-0-year-0-letter--area--lang-.html",
       "marginTop": -123,
+      "marginBottom": -220,
       "js": "",
       "mianliu": true,
       "zhuanFanTiDelayTime": -1,
@@ -90,6 +103,7 @@
     {
       "host": "http://m.wyb128.com/vod-list-id-3-pg-1-order--by-score-class--year-0-letter--area--lang-.html",
       "marginTop": -123,
+      "marginBottom": -220,
       "js": "",
       "mianliu": true,
       "zhuanFanTiDelayTime": -1,
@@ -100,6 +114,7 @@
     {
       "host": "/vod-detail-id",
       "marginTop": -112,
+      "marginBottom": -430,
       "js": "",
       "mianliu": true,
       "zhuanFanTiDelayTime": -1
@@ -107,12 +122,12 @@
     {
       "host": "/vod-play-id",
       "marginTop": -127,
+      "marginBottom": -425,
       "js": "",
       "mianliu": true,
       "zhuanFanTiDelayTime": -1
     }
   ],
-  "googlePlayUpdate": "info.digua.b",
   "interceptUrls": {
     "black": [
       "cnzz.com",
@@ -139,8 +154,8 @@
     "live"
   ],
   "upgrade": {
-    "notGoogleChannelVersion": "2.0.0_b,2.0.3_b,2.0.4_b,2.0.5_b,9.0.5_b,2.0.6_b",
-    "version": "2.0.0_b,2.0.3_b,2.0.4_b,2.0.5_b,9.0.5_b,2.0.6_b",
+    "notGoogleChannelVersion": "2.0.0_b,2.0.3_b,2.0.4_b,2.0.5_b,9.0.5_b,2.0.6_b,2.0.7_b",
+                    "version": "2.0.0_b,2.0.3_b,2.0.4_b,2.0.5_b,9.0.5_b,2.0.6_b",
     "url": "",
     "message": "",
     "force": false
