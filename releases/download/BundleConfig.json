@@ -71,7 +71,7 @@
       "title": "综艺"
     }
   ],
-  "googleChannelUseMainPageUrlsForReview": false,
+  "googleChannelUseMainPageUrlsForReview": true,
   "mainPageUrlsForReview": [
     {
       "host": "http://m.wyb128.com/vod-list-id-1-pg-1-order--by-score-class-106-year-0-letter--area--lang-.html",
